@@ -31,4 +31,77 @@ Here’s a **showcase of the testing skills and projects I have already learned 
 
 <table>
 <tr>
-<td a
+<td align="center" width="250px">
+<b>Cypress + Cucumber Automation</b><br>
+End-to-end test automation framework for web applications using BDD.<br>
+<i>Technologies:</i> Cypress, Cucumber, JavaScript<br>
+<b>Status:</b> Learned & Implemented<br>
+</td>
+
+<td align="center" width="250px">
+<b>API Testing with Postman & Bruno</b><br>
+Automated API testing including validations, assertions, and JSON schema checks.<br>
+<i>Technologies:</i> Postman, Bruno, REST API<br>
+<b>Status:</b> Learned & Implemented<br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250px">
+<b>Test Script Samples</b><br>
+Reusable code snippets for API and Web automation testing.<br>
+<i>Technologies:</i> JavaScript, Cypress<br>
+<b>Status:</b> Learned & Implemented<br>
+</td>
+
+<td align="center" width="250px">
+<b>Web Automation Demo</b><br>
+Automation framework for login, form submission, and validation.<br>
+<i>Technologies:</i> Cypress, JavaScript<br>
+<b>Status:</b> Learned & Implemented<br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250px">
+<b>Manual Testing Experience</b><br>
+Experienced in functional, regression, and API manual testing.<br>
+<i>Tools:</i> Test cases, bug reporting, Postman<br>
+<b>Status:</b> Completed<br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gobinath9500&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath9500&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements & Contributions
+- ✅ Built knowledge in automation frameworks and API testing  
+- ✅ Experienced in Agile teams delivering quality software  
+- ✅ Continuously learning and experimenting with new testing tools  
+
+---
+
+### 🤝 Connect With Me
+- [Email](mailto:Gobinath9500@example.com)  
+- [GitHub](https://github.com/Gobinath-Palaniyandi)
+
+---
+
+### ⚡ Fun Facts
+- 🏃‍♂️ Fitness enthusiast  
+- 🎵 Music lover  
+- 💻 Exploring new testing tools and frameworks  
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
