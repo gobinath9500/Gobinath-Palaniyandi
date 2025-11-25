@@ -8,7 +8,7 @@ I am an **Automation Tester** focused on **API and Web Testing**.
 I enjoy building **robust test automation frameworks** and exploring new tools and technologies in testing.
 
 - 🔭 **Current Focus:** Cypress, Cucumber, Postman, Bruno  
-- 🌱 **Learning:** CI/CD, advanced test frameworks, performance testing  
+- 🌱 **Learning:** playwright and selenium 
 - 💡 **Passionate About:** Quality software and BDD frameworks  
 - 🧠 **Core Strengths:** API Testing, Web Automation, Manual Testing, Agile, Troubleshooting  
 - 🎯 **Goal:** Build strong automation solutions and deliver high-quality software  
