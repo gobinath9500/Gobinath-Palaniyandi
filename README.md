@@ -10,91 +10,25 @@ I enjoy building **robust test automation frameworks** and exploring new tools a
 - 🔭 **Current Focus:** Cypress, Cucumber, Postman, Bruno  
 - 🌱 **Learning:** CI/CD, advanced test frameworks, performance testing  
 - 💡 **Passionate About:** Quality software and BDD frameworks  
-- 🧠 **Core Strengths:** API Testing, Web Automation, Agile, Troubleshooting  
+- 🧠 **Core Strengths:** API Testing, Web Automation, Manual Testing, Agile, Troubleshooting  
 - 🎯 **Goal:** Build strong automation solutions and deliver high-quality software  
 
 ---
 
 ### 🛠️ Skills & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,cucumber,postman,bruno,javascript,typescript,nodejs,git,github,vscode,linux" height="30" />
-</p>
+
+**Automation & Testing:** Cypress, Cucumber, Postman, Bruno  
+**Manual Testing:** Functional Testing, Regression Testing, API Testing, Bug Reporting  
+**Languages & Frameworks:** JavaScript, TypeScript, Node.js  
+**Tools & Others:** Git, GitHub, VS Code, Linux  
 
 ---
 
-### ⭐ Projects (Learning / Future)
-Here’s a **visual showcase** of my future and learning projects:
+### ⭐ Projects & Experience
+Here’s a **showcase of the testing skills and projects I have already learned or implemented**:
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="250px">
-<b>Cypress + Cucumber Automation</b><br>
-End-to-end test automation framework for web apps using BDD.<br>
-<i>Technologies:</i> Cypress, Cucumber, JavaScript<br>
-<b>Status:</b> Learning / Planned<br>
-</td>
-
-<td align="center" width="250px">
-<b>API Testing with Postman & Bruno</b><br>
-Automated API testing including validations and JSON schema checks.<br>
-<i>Technologies:</i> Postman, Bruno<br>
-<b>Status:</b> Learning / Planned<br>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="250px">
-<b>Test Script Samples</b><br>
-Small code snippets for API & Web testing practice.<br>
-<i>Technologies:</i> JavaScript, Cypress<br>
-<b>Status:</b> Learning / Planned<br>
-</td>
-
-<td align="center" width="250px">
-<b>Web Automation Demo</b><br>
-A demo automation framework showcasing login & form submission.<br>
-<i>Technologies:</i> Cypress<br>
-<b>Status:</b> Learning / Planned<br>
-</td>
-</tr>
-</table>
-
-</div>
-
-*(Project links can be added once repositories are created)*
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gobinath9500&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath9500&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements & Contributions
-- ✅ Built knowledge in automation frameworks and API testing  
-- ✅ Experienced in Agile teams delivering quality software  
-- ✅ Continuously learning and experimenting with new testing tools  
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="mailto:Gobinath9500@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/Gobinath9500"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
-
----
-
-### ⚡ Fun Facts
-- 🏃‍♂️ Fitness enthusiast  
-- 🎵 Music lover  
-- 💻 Exploring new testing tools and frameworks  
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**
+<td a
