@@ -90,6 +90,18 @@ Experienced in functional, regression, and API manual testing.<br>
 - ✅ Continuously learning and experimenting with new testing tools  
 
 ---
+## 💼 Professional Experience
+
+### **Endava**
+- **QA Engineer**  
+  *Jan 20, 2025 – Present*
+
+### **Rapidcare Group of Pvt. Ltd, Chennai**
+- **Quality Analyst**  
+  *Feb 2022 – Jan 20, 2025*
+
+- **Quality Analyst**  
+  *May 2018 – Feb 2022*
 
 ### 🤝 Connect With Me
 - [Email](mailto:Gobinath9500@example.com)  
