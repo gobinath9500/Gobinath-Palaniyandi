@@ -75,14 +75,6 @@ Experienced in functional, regression, and API manual testing.<br>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gobinath9500&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath9500&theme=tokyonight" />
-</p>
-
----
-
 ### 🏆 Achievements & Contributions
 - ✅ Built knowledge in automation frameworks and API testing  
 - ✅ Experienced in Agile teams delivering quality software  
