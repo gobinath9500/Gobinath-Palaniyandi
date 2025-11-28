@@ -24,8 +24,7 @@ I enjoy building **robust test automation frameworks** and exploring new tools a
 
 ---
 
-### ⭐ Projects & Experience
-Here’s a **showcase of the testing skills and projects I have already learned or implemented**:
+### ⭐ Projects:
 
 <div align="center">
 
@@ -97,11 +96,11 @@ Experienced in functional, regression, and API manual testing.<br>
   *Jan 20, 2025 – Present*
 
 ### **Rapidcare Group of Pvt. Ltd, Chennai**
-- **Quality Analyst**  
+- **Quality Analyst and project coordinator**  
   *Feb 2022 – Jan 20, 2025*
-
-- **Quality Analyst**  
+  **Data Analyst**  
   *May 2018 – Feb 2022*
+
 
 ### 🤝 Connect With Me
 - [Email](mailto:Gobinath9500@example.com)  
