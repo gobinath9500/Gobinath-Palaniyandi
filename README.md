@@ -90,7 +90,7 @@ Experienced in functional, regression, and API manual testing.<br>
 ### **Rapidcare Group of Pvt. Ltd, Chennai**
 - **Quality Analyst and project coordinator**  
   *Feb 2022 – Jan 20, 2025*
-  **Data Analyst**  
+-  **Data Analyst**  
   *May 2018 – Feb 2022*
 
 
